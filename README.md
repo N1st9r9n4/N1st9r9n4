@@ -20,6 +20,100 @@ Here are some ideas to get you started:
 
 
 
+
+# Hi there! 😁  
+  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+
+- Happy and creative programmer  
+  
+
+- Passionate about Robotics, AI, and Back-end development  
+  
+
+- Master’s degree in artificial intelligence and robotics  
+  
+
+- Experienced in path planning, pattern recognition, and image processing  
+  
+
+- Enjoy learning new things and combining different fields to create innovative solutions  
+  
+
+- Designed and implemented a new algorithm for autonomous mobile robot path planning  
+
+
+</td><td valign="top" width="50%">
+
+<div align="right">
+<img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870" align="right" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+
+### Skills  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="75" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" /></a>  
+</div>  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+
+
+
+### Statics  
+<img src="https://github-readme-stats.vercel.app/api?username=N1st9r9n4&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+
+
+### Views  
+![Profile views counter](https://komarev.com/ghpvc/?username=N1st9r9n4&&style=flat-square)  
+  
+
+
+
+### Socials  
+<a href="https://github.com/N1st9r9n4" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nastaran-ghasemi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+
+
+</td></tr></table>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+
+
+
+
+
+
 ###
 
 <div align="left">
