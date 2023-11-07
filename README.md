@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=chalk&no-frame=true">
+<img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=flat&no-frame=true">
 
 
 
