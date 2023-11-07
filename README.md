@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true">
 
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=N1st9r9n4)](https://github.com/madushadhanushka/github-readme)
+
 
 
 
