@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=N1st9r9n4&data=followers,repositories,stars,commits)](https://github.com/N1st9r9n4)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 
-<p align="left">Hello there!! 😁</p>
-
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N1st9r9n4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="100" alt="languages graph"  />
@@ -30,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=N1st9r9n4&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-###
+
 
 <br clear="both">
 
