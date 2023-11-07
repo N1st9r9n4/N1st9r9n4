@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 
 
-<img src="./assets/images/herobanner.png">
+<img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870">
 
 <br>
 
 <div>
  <div>
-  <img src="./assets/images/haruhiro.png" align="left">
+  <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870" align="left">
   <p align="right">
 
    &nbsp;
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <div>
  <div>
-  <img src="./assets/images/mary.png" align="left">
+  <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870" align="left">
   <p align="right">
 
    &nbsp;
