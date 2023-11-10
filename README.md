@@ -121,14 +121,16 @@ Here are some ideas to get you started:
 
 <br/>  
 
+----
+
 <table><tr><td valign="top" width="50%">
 
 <br />
-
-----
 
 ###
 
 <br clear="both">
 
 <img align="left" height="200" src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870"  />
+
+</td></tr></table>  
