@@ -23,10 +23,8 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true">
 
-<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=338" alt="moon.svg"></a>
 
-<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=338" alt="moon.svg"></a>
-
+<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?date=1994-07-23&theme=ray&rotate=360" alt="moon.svg"></a>
 
 
 
