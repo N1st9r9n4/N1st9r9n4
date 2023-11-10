@@ -32,6 +32,9 @@ Here are some ideas to get you started:
   </a>
 
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Proj?logo=python&logoColor=yellow">
+
+
 
 <!-- https://badges.pufler.dev/visits/{username}/{repo} -->
 [![Visits Badge](https://badges.pufler.dev/visits/N1st9r9n4/N1st9r9n4)](https://badges.pufler.dev)
