@@ -42,28 +42,16 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
-
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=N1st9r9n4&data=followers,repositories,stars,commits)](https://github.com/N1st9r9n4)
 
 
 <img height="100" width="100" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
 <img height="100" width="100" src="https://cdn.simpleicons.org/python/navy/lightblue" />
 
-
-
-
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
 
 <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?date=1994-07-23&theme=ray&rotate=360" alt="moon.svg"></a>
 
-
-<a href="https://dday-widget.minung.dev">
-    <img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2024-01-01&startDate=2023-11-10&theme=theme2" alt="dday-widget.svg" />
-  </a>
-
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Proj">
 
 
 <!-- https://badges.pufler.dev/visits/{username}/{repo} -->
