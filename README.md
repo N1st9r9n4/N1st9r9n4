@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 <!-- 💻 Tech Stack: -->
 <img height="100" width="100" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
 <img height="100" width="100" src="https://cdn.simpleicons.org/python/navy/lightblue" />
+<img height="100" width="100" src="https://cdn.simpleicons.org/python" />
+<img height="100" width="100" src="https://cdn.simpleicons.org/html5" />
+<img height="100" width="100" src="https://cdn.simpleicons.org/html5" />
 
 ### Skills  
 <div align="center">  
