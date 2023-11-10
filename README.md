@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 
 
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
+<img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=flat" alt="n1st9r9n4" /> </p>
+
 
 <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?date=1994-07-23&theme=ray&rotate=360" alt="moon.svg"></a>
 
@@ -81,25 +84,13 @@ Here are some ideas to get you started:
 <!-- https://badges.pufler.dev/last-stars/{user}?count={number}&padding={number}&perRow={number} -->
 [![Last Stars Display](https://badges.pufler.dev/last-stars/N1st9r9n4?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
-
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm N1st9r9n4</h1>
-<h3 align="center">thesis project involved designing and implementing a new algorithm for autonomous mobile robot path planning</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=N1ST9R9N4&label=Profile%20views&color=0e75b6&style=flat" alt="N1ST9R9N4" /> </p>
 
-<div> <a href="https://www.linkedin.com/in/nastaran-ghasemi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/N1ST9R9N4" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nastaran-ghasemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="nastaran-ghasemi" height="30" width="40" /></a></p>
-
-
-
+![Profile views counter](https://komarev.com/ghpvc/?username=N1st9r9n4&&style=flat-square)  
 
 
 # Hi there! 😁  
   
-
 <br/>  
 
 <table><tr><td valign="top" width="50%">
@@ -128,9 +119,7 @@ Here are some ideas to get you started:
 <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870" align="right" style="width: 100%" />
 </div>  
 
-
 </td></tr></table>  
-
 <br/>  
 
 
@@ -138,31 +127,6 @@ Here are some ideas to get you started:
 
 <table><tr><td valign="top" width="50%">
 
-
-
-### Statics  
-<img src="https://github-readme-stats.vercel.app/api?username=N1st9r9n4&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-
-
-### Views  
-![Profile views counter](https://komarev.com/ghpvc/?username=N1st9r9n4&&style=flat-square)  
-  
-
-
-
-### Socials  
-<a href="https://github.com/N1st9r9n4" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nastaran-ghasemi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
-
-</td></tr></table>
 <br />
 
 ----
@@ -171,48 +135,10 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
-
 ###
 
 <img align="left" height="200" src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870"  />
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nastaran-ghasemi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:Khalkhali13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-
-
-
 
 <a href="https://www.4shared.com/photo/-ldyIk1Ejq/octocat-1699368227870.html" target=_blank><img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870" border="0"></a>
 
-# 💫 About Me:
-I'm Fun!!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nastaran-ghasemi) 
-
-
-
-<h1 align="center">Hiiii!! N.G</h1>
-<h3 align="center">Python, Django, Robotic developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=flat" alt="n1st9r9n4" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nastaran-ghasemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nastaran-ghasemi" height="30" width="40" /></a>
-</p>
