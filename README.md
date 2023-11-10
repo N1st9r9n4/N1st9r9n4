@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=N1st9r9n4)](https://github.com/madushadhanushka/github-readme)
 
+![Top Langs](https://github-readme-stats.vercel.app/api?username=N1st9r9n4)
+
 
 
 
