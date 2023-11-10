@@ -23,21 +23,9 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true">
 
-<!-- real time -->
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
-</a>
+<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=338" alt="moon.svg"></a>
 
-<!-- specific date -->
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?date=2022-03-24&theme=basic" alt="moon.svg" />
-</a>
-
-<!-- real time -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
-
-<!-- specific date -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2022-03-24&theme=basic)](https://moon-svg.minung.dev)
+<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=338" alt="moon.svg"></a>
 
 
 
