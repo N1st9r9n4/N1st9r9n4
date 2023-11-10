@@ -84,10 +84,6 @@ Here are some ideas to get you started:
 <!-- https://badges.pufler.dev/last-stars/{user}?count={number}&padding={number}&perRow={number} -->
 [![Last Stars Display](https://badges.pufler.dev/last-stars/N1st9r9n4?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=N1ST9R9N4&label=Profile%20views&color=0e75b6&style=flat" alt="N1ST9R9N4" /> </p>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=N1st9r9n4&&style=flat-square)  
-
 
 # Hi there! 😁  
   
