@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- Trophy 🏆 GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true">
+
+
+
+
 <img height="100" width="100" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
 <img height="100" width="100" src="https://cdn.simpleicons.org/python/navy/lightblue" />
 
@@ -23,10 +30,6 @@ Here are some ideas to get you started:
 
 
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true">
-
 
 <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?date=1994-07-23&theme=ray&rotate=360" alt="moon.svg"></a>
 
@@ -58,8 +61,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm N1st9r9n4</h1>
 <h3 align="center">thesis project involved designing and implementing a new algorithm for autonomous mobile robot path planning</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=N1ST9R9N4&label=Profile%20views&color=0e75b6&style=flat" alt="N1ST9R9N4" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=N1ST9R9N4&theme=default" alt="N1ST9R9N4" /></a> </p>
 
 <div> <a href="https://www.linkedin.com/in/nastaran-ghasemi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/N1ST9R9N4" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -285,9 +286,6 @@ I'm Fun!!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=N1st9r9n4&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N1st9r9n4&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=N1st9r9n4&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
@@ -303,8 +301,6 @@ I'm Fun!!
 <h3 align="center">Python, Django, Robotic developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=flat" alt="n1st9r9n4" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n1st9r9n4" alt="n1st9r9n4" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
