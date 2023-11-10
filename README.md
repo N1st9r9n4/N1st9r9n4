@@ -32,6 +32,12 @@ Here are some ideas to get you started:
   </a>
 
 
+
+[![Visits Badge](https://badges.pufler.dev/visits/N1st9r9n4/N1st9r9n4)](https://badges.pufler.dev)
+
+
+
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm N1st9r9n4</h1>
 <h3 align="center">thesis project involved designing and implementing a new algorithm for autonomous mobile robot path planning</h3>
