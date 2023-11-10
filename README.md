@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="100" width="100" src="https://cdn.simpleicons.org/python" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/python/gray" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/python//white" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/python/navy/white" />
+<img height="100" width="100" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
+<img height="100" width="100" src="https://cdn.simpleicons.org/python/navy/lightblue" />
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=N1st9r9n4&data=followers,repositories,stars,commits)](https://github.com/N1st9r9n4)
