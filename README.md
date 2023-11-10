@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true">
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=N1st9r9n4)](https://github.com/madushadhanushka/github-readme)
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=N1st9r9n4)
-
-
+{{ ACCOUNT_AGE }}
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
