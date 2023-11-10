@@ -34,8 +34,14 @@ Here are some ideas to get you started:
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/N1st9r9n4/N1st9r9n4)](https://badges.pufler.dev)
-
-
+[![Years Badge](https://badges.pufler.dev/years/N1st9r9n4)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/N1st9r9n4)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/N1st9r9n4)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/N1st9r9n4/N1st9r9n4)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/N1st9r9n4/N1st9r9n4)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/N1st9r9n4)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/N1st9r9n4/N1st9r9n4?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+[![Last Stars Display](https://badges.pufler.dev/last-stars/N1st9r9n4?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
