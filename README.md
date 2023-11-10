@@ -131,10 +131,4 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-###
-
 <img align="left" height="200" src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870"  />
-
-
-<a href="https://www.4shared.com/photo/-ldyIk1Ejq/octocat-1699368227870.html" target=_blank><img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870" border="0"></a>
-
