@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 
 <!-- Trophy 🏆 GitHub Trophies -->
+### 🏆 GitHub Trophie
 <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true">
 
 
 <!-- 📊 GitHub Stats: -->
+## 📊 GitHub Stats:
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ST9R9N4&layout=compact&theme=transparent" alt=N1ST9R9N4 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=N1ST9R9N4&show_icons=true&locale=en&theme=transparent" alt="N1ST9R9N4" /></p>
@@ -44,28 +46,6 @@ Here are some ideas to get you started:
 
 <!-- 💻 Tech Stack: -->
 # 💻 Tech Stack:
-
-### Skills  
-<div align="center">  
-<img height="100" width="100" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/python/navy/lightblue" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/python" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/html5" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/git" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/raspberrypi" />
-</div>  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img height="100" width="100" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/python/navy/lightblue" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/python" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/html5" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/git" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/raspberrypi" />
-</p>
-
-
 <br clear="both">
 <div align="left">
   <img height="100" width="100" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
@@ -75,18 +55,6 @@ Here are some ideas to get you started:
   <img height="100" width="100" src="https://cdn.simpleicons.org/git" />
   <img height="100" width="100" src="https://cdn.simpleicons.org/raspberrypi" />
 </div>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img height="100" width="100" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/python/navy/lightblue" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/python" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/html5" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/git" />
-<img height="100" width="100" src="https://cdn.simpleicons.org/raspberrypi" />
-</p>
-
 
 
 
