@@ -27,6 +27,20 @@ Here are some ideas to get you started:
 <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?date=1994-07-23&theme=ray&rotate=360" alt="moon.svg"></a>
 
 
+<a href="https://dday-widget.minung.dev">
+  <img
+    src="https://dday-widget.minung.dev/widget?text=New Year&date=2024-07-23&theme=theme2"
+    alt="dday-widget.svg"
+  />
+</a>
+
+<a href="https://dday-widget.minung.dev">
+  <img
+    src="https://dday-widget.minung.dev/widget?text=New Year&date=2023-11-01&theme=theme2"
+    alt="dday-widget.svg"
+  />
+</a>
+
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm N1st9r9n4</h1>
