@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true">
 
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=N1st9r9n4&data=followers,repositories,stars,commits)](https://github.com/N1st9r9n4)
 
 
 <img height="100" width="100" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
 <img height="100" width="100" src="https://cdn.simpleicons.org/python/navy/lightblue" />
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=N1st9r9n4&data=followers,repositories,stars,commits)](https://github.com/N1st9r9n4)
 
 
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
@@ -193,24 +193,6 @@ Here are some ideas to get you started:
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-
-
-
-
-
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N1st9r9n4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="100" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=N1st9r9n4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="212" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=N1st9r9n4&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
 
 
 <br clear="both">
@@ -285,13 +267,6 @@ I'm Fun!!
 ![](https://github-readme-stats.vercel.app/api?username=N1st9r9n4&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=N1st9r9n4&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N1st9r9n4&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=N1st9r9n4&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
