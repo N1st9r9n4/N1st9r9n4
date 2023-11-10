@@ -28,18 +28,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://dday-widget.minung.dev">
-  <img
-    src="https://dday-widget.minung.dev/widget?text=New Year&date=2024-07-23&theme=theme2"
-    alt="dday-widget.svg"
-  />
-</a>
-
-<a href="https://dday-widget.minung.dev">
-  <img
-    src="https://dday-widget.minung.dev/widget?text=New Year&date=2023-11-01&theme=theme2"
-    alt="dday-widget.svg"
-  />
-</a>
+    <img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2024-01-01&startDate=2023-11-10&theme=theme2" alt="dday-widget.svg" />
+  </a>
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
