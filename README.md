@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </a>
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Proj?logo=python&logoColor=yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/Proj">
 
 
 
