@@ -33,18 +33,18 @@ Here are some ideas to get you started:
 
 
 
-#https://badges.pufler.dev/visits/{username}/{repo}
+<!-- https://badges.pufler.dev/visits/{username}/{repo} -->
 [![Visits Badge](https://badges.pufler.dev/visits/N1st9r9n4/N1st9r9n4)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/N1st9r9n4)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/N1st9r9n4)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/N1st9r9n4)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/N1st9r9n4/N1st9r9n4)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/N1st9r9n4/N1st9r9n4)](https://badges.pufler.dev)
-# https://badges.pufler.dev/commits/{periodicity}/{username}
+<!-- https://badges.pufler.dev/commits/{periodicity}/{username} -->
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/N1st9r9n4)](https://badges.pufler.dev)
-# https://badges.pufler.dev/contributors/{user}/{repo}?size={number}&padding={number}&perRow={number}&bots={boolean}
+<!-- https://badges.pufler.dev/contributors/{user}/{repo}?size={number}&padding={number}&perRow={number}&bots={boolean} -->
 [![Contributors Display](https://badges.pufler.dev/contributors/N1st9r9n4/N1st9r9n4?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
-# https://badges.pufler.dev/last-stars/{user}?count={number}&padding={number}&perRow={number}
+<!-- https://badges.pufler.dev/last-stars/{user}?count={number}&padding={number}&perRow={number} -->
 [![Last Stars Display](https://badges.pufler.dev/last-stars/N1st9r9n4?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
 
 
