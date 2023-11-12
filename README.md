@@ -1,7 +1,6 @@
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=header&height=300&text=Hope%20Hero-nl-&fontColor=4B6F9F&desc=%20Robooot%20&animation=twinkling">
 
-<div style="align:left; width:50%; float:left;">
-
+<table><tr><td valign="top" width="50%" style="font-size=100px;">
 - Happy and creative programmer  
   
 
@@ -20,11 +19,14 @@
 - Designed and implemented a new algorithm for autonomous mobile robot path planning  
 
 
-<div style="align:left; width:50%; float:right;">
+</td><td valign="top" width="50%">
+
+<div align="right">
 <!-- <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870" align="right" style="width: 100%" /> -->
 <img src="https://octodex.github.com/images/baracktocat.jpg" align="right" style="width: 100%" />
 </div>  
 
-<br/>  
+</td></tr></table>  
+<br/> 
 
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hope%20Hero&fontColor=4B6F9F&fontSize=50&animation=blink">
