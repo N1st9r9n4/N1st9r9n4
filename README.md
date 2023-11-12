@@ -31,7 +31,7 @@
 </td></tr></table>  
 
 
-<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
+<a href="https://samujjwaal.me/"><img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870" align="right" width="30%" /></a>
 
 I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
