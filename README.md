@@ -137,69 +137,23 @@ Here are some ideas to get you started:
 </td></tr></table>  
 
 
+<body>
 
-<div class="card">
-  <img src="profile.jpg" alt="Profile Picture" class="card-img">
-  <div class="card-body">
-    <h3 class="card-name">John Doe</h3>
-    <p class="card-desc">I am a web developer and I love to code.</p>
-    <button class="card-btn">Contact Me</button>
-  </div>
-</div>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+
 
 <style>
-    /* Style the card */
-.card {
-  width: 300px;
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  margin: 20px auto;
+body {
+  background-color: linen;
 }
 
-/* Style the card image */
-.card-img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 10px 10px 0 0;
-}
-
-/* Style the card body */
-.card-body {
-  padding: 20px;
-}
-
-/* Style the card name */
-.card-name {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-
-/* Style the card description */
-.card-desc {
-  font-size: 16px;
-  color: #333;
-  margin-bottom: 10px;
-}
-
-/* Style the card button */
-.card-btn {
-  width: 100%;
-  padding: 10px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-/* Change the button color on hover */
-.card-btn:hover {
-  background-color: #0069d9;
-}
-
-  </style>
+h1 {
+  color: maroon;
+  margin-left: 40px;
+} 
+</style>
 
 
