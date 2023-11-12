@@ -32,7 +32,7 @@
 
 
 <div style="display: inline-flex;">
-  <div style="flex: left; padding: 5px; width: 50%;">
+  <div style="flex-basis: fit-content; padding: 5px; width: 50%;">
   - Happy and creative programmer
   - Passionate about Robotics, AI, and Back-end development  
   - Master’s degree in artificial intelligence and robotics  
