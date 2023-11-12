@@ -32,7 +32,7 @@
 
 
 <div style="width:50%;">
-  <p>hooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</p>
+  <p style="width:50%;">hooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</p>
 </div>
 
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hope%20Hero&fontColor=4B6F9F&fontSize=50&animation=blink">
