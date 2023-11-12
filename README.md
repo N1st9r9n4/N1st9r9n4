@@ -46,7 +46,8 @@
 
 <div style="flex: 50%; padding: 5px;">
 
-!Octocat
+<img src="https://octodex.github.com/images/baracktocat.jpg" align="right" style="width: 50%" />
+
 
 </div>
 
