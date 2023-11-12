@@ -137,23 +137,9 @@ Here are some ideas to get you started:
 </td></tr></table>  
 
 
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
 
 
-<style>
-body {
-  background-color: linen;
-}
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
-h1 {
-  color: maroon;
-  margin-left: 40px;
-} 
-</style>
 
 
