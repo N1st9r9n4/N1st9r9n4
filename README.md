@@ -32,19 +32,16 @@
 
 
 <div style="display: flex;">
-
-<div style="flex: 50%; padding: 5px;">
-
+<div style="flex: left; padding: 5px; width:50%">
 - Happy and creative programmer
 - Passionate about Robotics, AI, and Back-end development  
 - Master’s degree in artificial intelligence and robotics  
 - Experienced in path planning, pattern recognition, and image processing  
 - Enjoy learning new things and combining different fields to create innovative solutions  
 - Designed and implemented a new algorithm for autonomous mobile robot path planning  
-
 </div>
 
-<div style="flex: 50%; padding: 5px;">
+<div style="flex: right; padding: 5px; width:50%">
 
 <img src="https://octodex.github.com/images/baracktocat.jpg" align="right" style="width: 50%" />
 
