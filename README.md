@@ -25,8 +25,8 @@
 <br clear="both">
 <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870.png" align="left" width="30%" />
 <div align="left">
-  <img height="100" width="100" hspace="10" style="border: .5px solid;" vspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
-  <img height="100" width="100" hspace="10" style="border: .5px solid;" vspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/html5" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/git" />
