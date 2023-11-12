@@ -4,10 +4,15 @@
 
 <table><tr><td valign="top" width="50%">
 - Happy and creative programmer  
+
 - Passionate about Robotics, AI, and Back-end development  
+
 - Master’s degree in artificial intelligence and robotics  
+
 - Experienced in path planning, pattern recognition, and image processing  
+
 - Enjoy learning new things and combining different fields to create innovative solutions  
+
 - Designed and implemented a new algorithm for autonomous mobile robot path planning  
 </td><td valign="top" width="50%">
 
