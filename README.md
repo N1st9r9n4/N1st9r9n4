@@ -27,11 +27,11 @@
 <div align="left">
   <img height="100" width="100" hspace="10" vspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="100" width="100" hspace="10" vspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" />
-  <img height="100" width="100" src="https://cdn.simpleicons.org/python" />
-  <img height="100" width="100" src="https://cdn.simpleicons.org/html5" />
-  <img height="100" width="100" src="https://cdn.simpleicons.org/git" />
-  <img height="100" width="100" src="https://cdn.simpleicons.org/raspberrypi" />
-  <img height="100" width="100" src="https://cdn.simpleicons.org/django/django/lightgreen" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/html5" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/git" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/raspberrypi" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/django/django/lightgreen" />
 </div>
 
 <div align="center">
