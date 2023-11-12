@@ -29,8 +29,8 @@
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python" />
-  <p></p>
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/html5" />
+  <p></p>
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/git" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/raspberrypi" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/django/django/lightgreen" />
