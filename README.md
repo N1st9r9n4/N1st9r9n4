@@ -29,7 +29,7 @@
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python" />
-  <br>
+  <p></p>
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/html5" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/git" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/raspberrypi" />
