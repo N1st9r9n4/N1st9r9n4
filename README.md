@@ -1,6 +1,6 @@
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=header&height=300&text=Hope%20Hero-nl-&fontColor=4B6F9F&desc=%20Robooot%20&animation=twinkling">
 
-<img src="hhttps://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870" align="right" width="30%" />
+<img src="[https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870](https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870)" align="right" width="30%" />
 
 - Happy and creative programmer
   
@@ -21,4 +21,5 @@
 
 
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hope%20Hero&fontColor=4B6F9F&fontSize=50&animation=blink">
+
 
