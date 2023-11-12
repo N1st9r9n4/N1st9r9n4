@@ -25,13 +25,13 @@
 <br clear="both">
 <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870.png" align="left" width="30%" />
 <div align="left">
-  <p><img height="100" width="100" style="padding: 10px;" src="https://cdn.simpleicons.org/python/darkgray/lightgray" /></p>
+  <p><img height="100" width="100" style="padding: 10px;" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="100" width="100" style="padding: 10px;" src="https://cdn.simpleicons.org/python/navy/lightblue" />
   <img height="100" width="100" style="padding: 10px;" src="https://cdn.simpleicons.org/python" />
   <img height="100" width="100" style="padding: 10px;" src="https://cdn.simpleicons.org/html5" />
   <img height="100" width="100" style="padding: 10px;" src="https://cdn.simpleicons.org/git" />
   <img height="100" width="100" style="padding: 10px;" src="https://cdn.simpleicons.org/raspberrypi" />
-  <img height="100" width="100" style="padding: 10px;" src="https://cdn.simpleicons.org/django/django/lightgreen" />
+  <img height="100" width="100" style="padding: 10px;" src="https://cdn.simpleicons.org/django/django/lightgreen" /></p>
 </div>
 
 <div align="center">
