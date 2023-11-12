@@ -4,7 +4,7 @@
 
 <font size="5">
 - Happy and creative programmer  
-  
+  </font>
 
 - Passionate about Robotics, AI, and Back-end development  
   
@@ -19,7 +19,7 @@
   
 
 - Designed and implemented a new algorithm for autonomous mobile robot path planning  
-</font>
+
 
 </td><td valign="top" width="50%">
 
