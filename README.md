@@ -30,10 +30,7 @@
 
 </td></tr></table>  
 
-
-<p dir="auto" style="
-    width: 50%;
-">hooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1st9r9n4&size_weight=0.5&count_weight=0.5)
 
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hope%20Hero&fontColor=4B6F9F&fontSize=50&animation=blink">
 
