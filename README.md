@@ -31,7 +31,7 @@
 </td></tr></table>  
 
 
-<div style="display: flex;">
+<div style="display: inline-flex;">
   <div style="flex: left; padding: 5px; width: 50%;">
   - Happy and creative programmer
   - Passionate about Robotics, AI, and Back-end development  
