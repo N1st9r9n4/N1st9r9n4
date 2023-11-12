@@ -2,7 +2,7 @@
 
 <br/>  
 
-<div align="left">
+<div align="left" width="50%">
   
 - Happy and creative programmer  
 
@@ -16,7 +16,7 @@
 
 - Designed and implemented a new algorithm for autonomous mobile robot path planning
 
-<div align="right">
+<div align="right" width="50%">
 <!-- <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870" align="right" style="width: 100%" /> -->
 <img src="https://octodex.github.com/images/baracktocat.jpg" align="right" style="width: 100%" />
 </div>  
