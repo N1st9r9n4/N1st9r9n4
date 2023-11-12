@@ -26,12 +26,12 @@
 <!--  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1ST9R9N4&theme=transparent" height="240em" />
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ST9R9N4&layout=compact&theme=transparent" alt=N1ST9R9N4 />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" height="240em" />
 -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1ST9R9N4&theme=transparent" height="240em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1ST9R9N4&theme=transparent" height="240em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="240em" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=N1ST9R9N4&show_icons=true&locale=en&theme=transparent" alt="N1ST9R9N4" height="240em" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" height="240em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1ST9R9N4&theme=transparent" height="240em" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=N1ST9R9N4&theme=github-compact"/>
 </div>
