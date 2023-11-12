@@ -31,7 +31,7 @@
 </td></tr></table>  
 
 
-<div flex-basis="fit-content" width=50%>
+<div width="50%">
 - Happy and creative programmer
 - Passionate about Robotics, AI, and Back-end development  
 - Master’s degree in artificial intelligence and robotics  
