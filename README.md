@@ -26,9 +26,10 @@
 <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870.png" align="left" width="30%" />
 <!-- <div align="top" height="400px" vertical-align="middle"> -->
 <div align="left">
-  <img height="100" width="100" hspace="10" vertical-align="middle" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
-  <img height="100" width="100" hspace="10" vertical-align="middle" src="https://cdn.simpleicons.org/python/navy/lightblue" />
-  <img height="100" width="100" hspace="10" style="vertical-align: middle;" src="https://cdn.simpleicons.org/python" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python" />
+  <br>
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/html5" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/git" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/raspberrypi" />
