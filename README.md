@@ -21,6 +21,19 @@
 - Enjoy learning new things and combining different fields to create innovative solutions  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+<br clear="both">
+<img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870.png" align="right" width="30%" />
+<div align="left">
+  <img height="100" width="100" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
+  <img height="100" width="100" src="https://cdn.simpleicons.org/python/navy/lightblue" />
+  <img height="100" width="100" src="https://cdn.simpleicons.org/python" />
+  <img height="100" width="100" src="https://cdn.simpleicons.org/html5" />
+  <img height="100" width="100" src="https://cdn.simpleicons.org/git" />
+  <img height="100" width="100" src="https://cdn.simpleicons.org/raspberrypi" />
+  <img height="100" width="100" src="https://cdn.simpleicons.org/django/django/lightgreen" />
+</div>
+
 <div align="center">
 <!--  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1ST9R9N4&theme=transparent" height="240em" />
