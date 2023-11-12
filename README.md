@@ -42,7 +42,7 @@
   </div>
 
   <div style="flex: right; padding: 5px; width: 50%;">
-  <img src="https://octodex.github.com/images/baracktocat.jpg" align="right" style="width: 100%" />
+  <img src="https://octodex.github.com/images/baracktocat.jpg" align="right" style="width: 50%" />
   </div>
 
 </div>
