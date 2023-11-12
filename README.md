@@ -2,9 +2,9 @@
 
 <table><tr><td valign="top" width="50%">
 
-<font size="5">
-- Happy and creative programmer  
-  </font>
+
+- <font size="5">Happy and creative programmer</font> 
+  
 
 - Passionate about Robotics, AI, and Back-end development  
   
