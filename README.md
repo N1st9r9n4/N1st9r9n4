@@ -31,8 +31,8 @@
 </td></tr></table>  
 
 
-<div style="width: 10%" >
-  <p style="width: 10%" >hooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</p>
+<div style="width: 10%!important" >
+  <p style="width: 10%!important" >hooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</p>
 </div>
 
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hope%20Hero&fontColor=4B6F9F&fontSize=50&animation=blink">
