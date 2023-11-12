@@ -31,7 +31,7 @@
   <img height="100" width="100" src="https://cdn.simpleicons.org/html5" />
   <img height="100" width="100" src="https://cdn.simpleicons.org/git" />
   <img height="100" width="100" src="https://cdn.simpleicons.org/raspberrypi" />
-  <img height="100" width="100" src="https://cdn.simpleicons.org/django/django/lightgreen" />
+  <kbd><img height="100" width="100" src="https://cdn.simpleicons.org/django/django/lightgreen" /></kbd>
 </div>
 
 <div align="center">
