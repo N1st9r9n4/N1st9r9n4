@@ -27,17 +27,18 @@
 <div align="center">
 <!--   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/django/django/lightgreen" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/html5" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/git" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/raspberrypi" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue"" />
+<!--   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/django/django/lightgreen" /> -->
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/django/navy/lightblue"" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/html5/navy/lightblue"" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/git/navy/lightblue"" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/raspberrypi/navy/lightblue"" />
   <p></p>
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/css3" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/micropython" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/scratch" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/bootstrap" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/pythonanywhere" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/css3/navy/lightblue"" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/micropython/navy/lightblue"" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/scratch/navy/lightblue"" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/bootstrap/navy/lightblue"" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/pythonanywhere/navy/lightblue"" />
   <p></p>
 </div>
 
@@ -48,10 +49,10 @@
   <p><br></p>
   <br>
   <p></p>
-  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/skype" />
-  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/gmail" />
-  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/linkedin" />
-  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/internetexplorer" />
+  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/skype/darkgray/lightgray" />
+  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/gmail/darkgray/lightgray" />
+  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/linkedin/darkgray/lightgray" />
+  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/internetexplorer/darkgray/lightgray" />
 </div>
 
 <br clear="both">
