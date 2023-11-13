@@ -24,7 +24,7 @@
 
 <br clear="both">
 <img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="30%" />
-<div align="left">
+<div align="right">
 <!--   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python" />
@@ -41,12 +41,15 @@
   <p></p>
 </div>
 
-  <p></p>
+
+<br clear="both">
+<img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="30%" />
+<div align="left">
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/skype" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/gmail" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/linkedin" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/internetexplorer" />
-
+</div>
 
 <br clear="both">
 <div align="center">
