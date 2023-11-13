@@ -39,13 +39,14 @@
   <p></p>
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/bootstrap" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/pythonanywhere" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/linkedin" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/internetexplorer" />
+</div>
+
   <p></p>
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/internetexplorer" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/skype" />
   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/gmail" />
-</div>
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/linkedin" />
+  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/internetexplorer" />
+
 
 <br clear="both">
 <div align="center">
