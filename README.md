@@ -25,27 +25,27 @@
 <br clear="both">
 <img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="30%" />
 <div align="left">
-<!--   <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/python" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/django/django/lightgreen" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/html5" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/git" />
+<!--   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/django/django/lightgreen" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/html5" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/git" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/raspberrypi" />
   <p></p>
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/raspberrypi" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/css" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/micropython" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/scratch" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/css3" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/micropython" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/scratch" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/bootstrap" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/pythonanywhere" />
   <p></p>
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/bootstrap" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/pythonanywhere" />
 </div>
 
   <p></p>
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/skype" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/gmail" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/linkedin" />
-  <img height="100" width="100" hspace="10" src="https://cdn.simpleicons.org/internetexplorer" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/skype" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/gmail" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/linkedin" />
+  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/internetexplorer" />
 
 
 <br clear="both">
