@@ -23,7 +23,7 @@
 
 
 <br clear="both">
-<img src="https://octodex.github.com/images/baracktocat.jpg" align="right" width="60%" />
+<img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="30%" />
 <div align="right">
 <!--   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
@@ -43,7 +43,7 @@
 
 
 <br clear="both">
-<img src="https://octodex.github.com/images/privateinvestocat.jpg" align="left" width="30%" />
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="60%" />
 <div align="left">
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/skype" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/gmail" />
