@@ -45,6 +45,8 @@
 <br clear="both">
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="30%" />
 <div align="center">
+  <p><br></p>
+  <br>
   <p></p>
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/skype" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/gmail" />
