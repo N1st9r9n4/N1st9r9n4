@@ -29,6 +29,7 @@
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue"" />
 <!--   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/django/django/lightgreen" /> -->
+  <p><br></p>
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/django/navy/lightblue"" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/html5/navy/lightblue"" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/git/navy/lightblue"" />
