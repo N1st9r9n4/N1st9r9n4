@@ -43,11 +43,14 @@
 
 
 <br clear="both">
-<img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="60%" />
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="30%" />
 <div align="left">
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/skype" />
+  <p></p>
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/gmail" />
+  <p></p>
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/linkedin" />
+  <p></p>
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/internetexplorer" />
 </div>
 
