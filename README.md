@@ -23,7 +23,7 @@
 
 
 <br clear="both">
-<img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="40%" />
+<img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="35%" />
 <div align="center">
 <!--   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
@@ -71,6 +71,15 @@
 <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true" width="100%">
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=N1ST9R9N4&theme=github-compact"/>
 </div>
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=N1st9r9n4&data=followers,repositories,stars,commits&theme=default&theme=darkmode)](https://github.com/N1st9r9n4)
+
+<img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
+<img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=flat" alt="n1st9r9n4" /> </p>
+
+<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?date=1994-07-23&theme=ray&rotate=360" alt="moon.svg"></a>
 
 
 
