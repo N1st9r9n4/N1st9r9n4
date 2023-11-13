@@ -48,10 +48,10 @@
   <p><br></p>
   <br>
   <p></p>
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/skype" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/gmail" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/linkedin" />
-  <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/internetexplorer" />
+  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/skype" />
+  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/gmail" />
+  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/linkedin" />
+  <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/internetexplorer" />
 </div>
 
 <br clear="both">
