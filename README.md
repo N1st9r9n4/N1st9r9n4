@@ -78,9 +78,8 @@
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
 <img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=flat" alt="n1st9r9n4" /> </p>
-
-<a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?date=1994-07-23&theme=ray&rotate=360" alt="moon.svg"></a>
-
+![](https://komarev.com/ghpvc/?username=N1st9r9n4&style=for-the-badge)
+<img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&color=1">
 
 
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hope%20Hero&fontColor=4B6F9F&fontSize=50&animation=blinking">
