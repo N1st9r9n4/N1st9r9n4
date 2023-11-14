@@ -77,8 +77,7 @@
 
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
 <img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=flat" alt="n1st9r9n4" /> </p>
-![](https://komarev.com/ghpvc/?username=N1st9r9n4&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="n1st9r9n4" />
 <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&color=1">
 
 
