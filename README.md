@@ -78,7 +78,7 @@
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
 <img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
 <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="n1st9r9n4" />
-<img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&color=1">
+<img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1">
 
 
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hope%20Hero&fontColor=4B6F9F&fontSize=50&animation=blinking">
