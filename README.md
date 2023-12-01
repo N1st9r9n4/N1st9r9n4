@@ -63,6 +63,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ST9R9N4&layout=compact&theme=transparent" alt=N1ST9R9N4 />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=N1ST9R9N4&show_icons=true&locale=en&theme=transparent" alt="N1ST9R9N4" height="240em" />
 -->
+<img src="https://octodex.github.com/images/tentocats.jpg" align="left" width="35%" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1ST9R9N4&theme=transparent" height="240em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1ST9R9N4&theme=transparent" height="240em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="190em" />
@@ -72,8 +73,9 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=N1ST9R9N4&theme=github-compact"/>
 </div>
 
-
+<--
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=N1st9r9n4&data=followers,repositories,stars,commits&theme=default&theme=darkmode)](https://github.com/N1st9r9n4)
+-->
 
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
 <img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
