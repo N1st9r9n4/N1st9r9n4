@@ -98,7 +98,7 @@
 <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="n1st9r9n4" />
 -->
 <div>
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" align="left" height="240em" />
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" />
   <img src="https://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="250" />
   <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1">
 </div>
