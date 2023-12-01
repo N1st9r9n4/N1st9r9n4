@@ -99,7 +99,7 @@
 -->
 <div>
   <img src="https://octodex.github.com/images/NUX_Octodex.gif" />
-  ![](https://octodex.github.com/images/NUX_Octodex.gif)
+  !<img src="https://octodex.github.com/images/NUX_Octodex.gif" width="40" height="40" />
   <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="this slowpoke moves"  width="250" />
   <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1">
 </div>
