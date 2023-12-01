@@ -64,7 +64,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=N1ST9R9N4&show_icons=true&locale=en&theme=transparent" alt="N1ST9R9N4" height="240em" />
 -->
   <div>
-    <img src="https://octodex.github.com/images/tentocats.jpg" align="left" height="240em" />
+    <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" height="240em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1ST9R9N4&theme=transparent" height="240em" />
   </div>
   <div>
@@ -76,7 +76,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="190em" />
   </div>
   <div>
-    <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" height="190em" />
+    <img src="https://octodex.github.com/images/tentocats.jpg" align="left" height="190em" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" height="190em" />
   </div>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1ST9R9N4&theme=transparent" width="100%" />
