@@ -71,12 +71,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1ST9R9N4&theme=transparent" height="240em" />
     <img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg" align="right" height="240em" />
   </div><p></p>
-  <div>
-    <img src="https://octodex.github.com/images/welcometocat.png" align="left" height="190em" />
-    <br><p></p>
-    <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1" align="center" width="20%">
-    <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="190em" />
-  </div><p></p>
+  
   <div>
     <img src="https://octodex.github.com/images/tentocats.jpg" align="right" height="190em" />
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" height="190em" />
