@@ -78,7 +78,7 @@
   </div><p></p>
   <div>
     <img src="https://octodex.github.com/images/tentocats.jpg" align="right" height="240em" />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" height="240em" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" height="190" />
   </div><p></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1ST9R9N4&theme=transparent" width="100%" /><p></p>
 <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true" width="100%"><p></p>
