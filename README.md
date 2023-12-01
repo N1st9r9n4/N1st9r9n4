@@ -77,7 +77,7 @@
     <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="240em" />
   </div><p></p>
   <div>
-    <img src="https://octodex.github.com/images/tentocats.jpg" align="right" height="240em" />
+    <img src="https://octodex.github.com/images/tentocats.jpg" align="right" height="340em" />
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" height="240em" />
   </div><p></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1ST9R9N4&theme=transparent" width="100%" /><p></p>
