@@ -22,7 +22,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<br clear="both">
+<br clear="both"><p></p>
 <img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="35%" />
 <div align="center">
 <!--   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
@@ -44,7 +44,7 @@
 </div>
 
 
-<br clear="both">
+<br clear="both"><p></p>
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="30%" />
 <div align="center">
   <p><br></p>
@@ -56,7 +56,7 @@
   <img height="80" width="80" hspace="20" src="https://cdn.simpleicons.org/internetexplorer/black/lightgray" />
 </div>
 
-<br clear="both">
+<br clear="both"><p></p>
 <div align="center">
 <!--  
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1ST9R9N4&theme=transparent" height="240em" />
@@ -66,24 +66,24 @@
   <div>
     <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" height="240em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1ST9R9N4&theme=transparent" height="240em" />
-  </div>
+  </div><p></p>
   <div>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1ST9R9N4&theme=transparent" height="240em" />
     <img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg" align="right" height="240em" />
-  </div>
+  </div><p></p>
   <div>
     <img src="https://octodex.github.com/images/welcometocat.png" align="left" height="190em" />
     <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1" align="center">
     <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="190em" />
-  </div>
+  </div><p></p>
   <div>
     <img src="https://octodex.github.com/images/tentocats.jpg" align="right" height="190em" />
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" height="190em" />
-  </div>
+  </div><p></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1ST9R9N4&theme=transparent" width="100%" /><p></p>
 <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true" width="100%"><p></p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=N1ST9R9N4&theme=github-compact"/><p></p>
-</div>
+</div><p></p>
 
 <!--
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=N1st9r9n4&data=followers,repositories,stars,commits&theme=default&theme=darkmode)](https://github.com/N1st9r9n4)
