@@ -73,6 +73,7 @@
   </div>
   <div>
     <img src="https://octodex.github.com/images/welcometocat.png" align="left" height="190em" />
+    <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="190em" />
   </div>
   <div>
@@ -90,18 +91,16 @@
 <!--
 [![@N1st9r9n4's Holopin board](https://holopin.me/N1st9r9n4)](https://holopin.io/@N1st9r9n4)
 -->
-<a href="https://stats.hyochan.dev/en/stats/N1st9r9n4"><img src="https://stats.hyochan.dev/api/github-stats?login=N1st9r9n4" width="100%" /></a>
-
+<div>
+  <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="lesft" height="240em" />
+  <!-- <img src="https://octodex.github.com/images/NUX_Octodex.gif" /> -->
+  <a href="https://stats.hyochan.dev/en/stats/N1st9r9n4"><img src="https://stats.hyochan.dev/api/github-stats?login=N1st9r9n4" /></a>
+</div>
 <!--
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
 <img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
 <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="n1st9r9n4" />
 -->
-<div>
-  <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="lesft" height="240em" />
-  <!-- <img src="https://octodex.github.com/images/NUX_Octodex.gif" /> -->
-  <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1">
-</div>
 
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hope%20Hero&fontColor=4B6F9F&fontSize=50&animation=blinking">
 
