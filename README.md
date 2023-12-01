@@ -94,7 +94,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="lesft" height="240em" />
   <!-- <img src="https://octodex.github.com/images/NUX_Octodex.gif" /> -->
-  <a href="https://stats.hyochan.dev/en/stats/N1st9r9n4"><img src="https://stats.hyochan.dev/api/github-stats?login=N1st9r9n4" /></a>
+  <a href="https://stats.hyochan.dev/en/stats/N1st9r9n4"><img src="https://stats.hyochan.dev/api/github-stats?login=N1st9r9n4" width="70%" /></a>
 </div>
 <!--
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
