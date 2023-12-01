@@ -72,7 +72,7 @@
     <img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg" align="right" height="240em" />
   </div><p></p>
   <div>
-    <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1" align="center" width="30%">
+    <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1">
     <img src="https://octodex.github.com/images/welcometocat.png" align="left" height="240em" />
     <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="240em" />
   </div><p></p>
