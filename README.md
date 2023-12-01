@@ -63,7 +63,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ST9R9N4&layout=compact&theme=transparent" alt=N1ST9R9N4 />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=N1ST9R9N4&show_icons=true&locale=en&theme=transparent" alt="N1ST9R9N4" height="240em" />
 -->
-  <div  height="500em">
+  <div>
     <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" height="240em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1ST9R9N4&theme=transparent" height="240em" />
   </div><p></p>
@@ -73,7 +73,7 @@
   </div><p></p>
   <div>
     <img src="https://octodex.github.com/images/welcometocat.png" align="left" height="190em" />
-    <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1" align="center" height="190em">
+    <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1" align="center" width="20%">
     <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="190em" />
   </div><p></p>
   <div>
