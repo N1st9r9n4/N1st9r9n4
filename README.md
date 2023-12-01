@@ -98,9 +98,8 @@
 <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="n1st9r9n4" />
 -->
 <div>
-  <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" />
-  !<img src="https://octodex.github.com/images/NUX_Octodex.gif" width="40" height="40" />
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="this slowpoke moves"  width="250" />
+  <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="lesft" height="240em" />
+  <!-- <img src="https://octodex.github.com/images/NUX_Octodex.gif" /> -->
   <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1">
 </div>
 
