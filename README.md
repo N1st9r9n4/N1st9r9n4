@@ -78,7 +78,7 @@
   </div><p></p>
   <div>
     <img src="https://octodex.github.com/images/tentocats.jpg" align="right" height="240em" />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" width="fit-content" />
   </div><p></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1ST9R9N4&theme=transparent" width="100%" /><p></p>
 <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true" width="100%"><p></p>
@@ -92,7 +92,7 @@
 [![@N1st9r9n4's Holopin board](https://holopin.me/N1st9r9n4)](https://holopin.io/@N1st9r9n4)
 -->
 <div>
-  <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="left"  width="25%"/>
+  <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="left" width="25%"/>
   <!-- <img src="https://octodex.github.com/images/NUX_Octodex.gif" /> -->
   <a href="https://stats.hyochan.dev/en/stats/N1st9r9n4"><img src="https://stats.hyochan.dev/api/github-stats?login=N1st9r9n4" align="right" width="70%" /></a>
 </div>
