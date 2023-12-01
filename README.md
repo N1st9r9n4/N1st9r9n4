@@ -76,7 +76,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="190em" />
   </div>
   <div>
-    <img src="https://octodex.github.com/images/tentocats.jpg" align="left" height="190em" />
+    <img src="https://octodex.github.com/images/tentocats.jpg" align="right" height="190em" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" height="190em" />
   </div>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1ST9R9N4&theme=transparent" width="100%" />
@@ -87,6 +87,10 @@
 <--
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=N1st9r9n4&data=followers,repositories,stars,commits&theme=default&theme=darkmode)](https://github.com/N1st9r9n4)
 -->
+
+[![@N1st9r9n4's Holopin board](https://holopin.me/N1st9r9n4)](https://holopin.io/@N1st9r9n4)
+
+<a href="https://stats.hyochan.dev/en/stats/N1st9r9n4"><img src="https://stats.hyochan.dev/api/github-stats?login=N1st9r9n4" width="100%" /></a>
 
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
 <img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
