@@ -23,7 +23,7 @@
 
 
 <br clear="both">
-<img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="50%" />
+<img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="35%" />
 <div align="center">
 <!--   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
@@ -63,9 +63,10 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ST9R9N4&layout=compact&theme=transparent" alt=N1ST9R9N4 />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=N1ST9R9N4&show_icons=true&locale=en&theme=transparent" alt="N1ST9R9N4" height="240em" />
 -->
-<img src="https://octodex.github.com/images/tentocats.jpg" align="left" width="35%" />
+<img src="https://octodex.github.com/images/tentocats.jpg" align="left" height="240em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1ST9R9N4&theme=transparent" height="240em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1ST9R9N4&theme=transparent" height="240em" />
+  <img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg" align="left" height="240em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="190em" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" height="190em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1ST9R9N4&theme=transparent" width="100%" />
