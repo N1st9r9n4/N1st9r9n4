@@ -23,7 +23,7 @@
 
 
 <br clear="both">
-<img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="35%" />
+<img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="50%" />
 <div align="center">
 <!--   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="80" width="80" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
