@@ -3,12 +3,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870.png" align="right" width="30%" />
 
-- Happy and creative programmer <br>
-- Passionate about Robotics, AI, and Back-end development  <br>
+- Happy and creative programmer <p></p>
+- Passionate about Robotics, AI, and Back-end development <p></p>
 - Master’s degree in AI and robotics  <br>
-- Designed and implemented a new algorithm for autonomous mobile robot path planning  <br>
-- Experienced in path planning, pattern recognition, and image processing  <br>
-- Enjoy learning new things and combining different fields to create innovative solutions <br> 
+- Designed and implemented a new algorithm for autonomous mobile robot path planning <p></p>
+- Experienced in path planning, pattern recognition, and image processing <p></p>
+- Enjoy learning new things and combining different fields to create innovative solutions <p></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -29,7 +29,6 @@
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/scratch/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/pythonanywhere/navy/lightblue"" />
 </div>
-
 <div align="right" width="25%">
   <p><br></p>
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/skype/black/lightgray" />
@@ -63,8 +62,6 @@
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" width="fit-content" />
   </div><p></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1ST9R9N4&theme=transparent" width="100%" /><p></p>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true" width="100%"><p></p>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=N1ST9R9N4&theme=github-compact"/><p></p> -->
 </div><p></p>
 
 <!--
@@ -75,8 +72,7 @@
 -->
 <div>
   <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="left" width="25%"/>
-  <!-- <img src="https://octodex.github.com/images/NUX_Octodex.gif" /> -->
-  <a href="https://stats.hyochan.dev/en/stats/N1st9r9n4"><img src="https://stats.hyochan.dev/api/github-stats?login=N1st9r9n4" align="right" width="70%" /></a>
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" />
 </div>
 <!--
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
