@@ -24,7 +24,7 @@
 
 <br clear="both"><p></p>
 <img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="25%" />
-<div align="center">
+<div align="left">
 <!--   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
 <!--   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/django/django/lightgreen" /> -->
@@ -46,7 +46,7 @@
 
 <br clear="both"><p></p>
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="20%" />
-<div align="center">
+<div align="right">
   <p><br></p>
   <br>
   <p></p>
