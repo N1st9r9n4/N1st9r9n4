@@ -40,12 +40,13 @@
 
 <br clear="both"><p></p>
 <div align="center">
-    <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" height="300em" />
-    <img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg" align="right" height="300em" />
+    <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" width="30%" />
+    <img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg" align="right" width="30%"/>
+  <p></p>
     <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1" align="center" >
 </div><p></p>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="center" width="40%"/>
+<img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="center" width="30%"/>
 </div><p></p>
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hopero&fontColor=4B6F9F&fontSize=50&animation=blinking">
 
