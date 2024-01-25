@@ -13,7 +13,7 @@
 
 <br clear="both"><p></p>
 <img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="25%" />
-<img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="20%" />
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="25%" />
 <div align="left" max-width="25%">
 <!--   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
@@ -42,11 +42,11 @@
 <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" width="30%" />
 <img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg" align="right" width="30%"/>
 <div align="center">
-  <p><br></p><p><br></p>
+  <p></p><p></p>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&label=Profile%20Views&color=0&icon=4&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&label=%20Profile%20Views%20&color=0&%20icon=4%20&pretty=true" />
 </a>
-</div><p><br></p>
+</div><p></p>
 <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="center" width="30%"/>
 <p></p>
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hopero&fontColor=4B6F9F&fontSize=50&animation=blinking">
