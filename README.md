@@ -37,6 +37,10 @@
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/internetexplorer/black/lightgray" />
 </div>
 
+
+
+
+
 <br clear="both"><p></p>
 <div align="center">
 <!--  
@@ -54,8 +58,7 @@
   </div><p></p>
   <div>
     <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1" align="left" >
-<!--     <img src="https://octodex.github.com/images/welcometocat.png" align="center" height="240em" />
-    <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="240em" />
+<!--  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="240em" />
   </div><p></p> -->
   <div>
     <img src="https://octodex.github.com/images/tentocats.jpg" align="right" height="240em" />
@@ -71,8 +74,7 @@
 [![@N1st9r9n4's Holopin board](https://holopin.me/N1st9r9n4)](https://holopin.io/@N1st9r9n4)
 -->
 <div>
-  <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="left" width="25%"/>
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" />
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" align="left" width="25%" />
 </div>
 <!--
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
