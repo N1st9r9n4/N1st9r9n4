@@ -42,8 +42,8 @@
 
 <div align="right" width="25%">
   <p><br></p>
-  <br>
-  <p></p>
+<!--   <br>
+  <p></p> -->
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/skype/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/gmail/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/linkedin/black/lightgray" />
@@ -59,7 +59,7 @@
 -->
   <div>
     <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" height="240em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1ST9R9N4&theme=transparent" height="240em" />
+<!--     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1ST9R9N4&theme=transparent" height="240em" /> -->
   </div><p></p>
   <div>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1ST9R9N4&theme=transparent" height="240em" />
@@ -67,16 +67,16 @@
   </div><p></p>
   <div>
     <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1" align="left" >
-    <img src="https://octodex.github.com/images/welcometocat.png" align="center" height="240em" />
+<!--     <img src="https://octodex.github.com/images/welcometocat.png" align="center" height="240em" />
     <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="240em" />
-  </div><p></p>
+  </div><p></p> -->
   <div>
     <img src="https://octodex.github.com/images/tentocats.jpg" align="right" height="240em" />
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" width="fit-content" />
   </div><p></p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1ST9R9N4&theme=transparent" width="100%" /><p></p>
-<img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true" width="100%"><p></p>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=N1ST9R9N4&theme=github-compact"/><p></p>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true" width="100%"><p></p>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=N1ST9R9N4&theme=github-compact"/><p></p> -->
 </div><p></p>
 
 <!--
