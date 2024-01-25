@@ -44,9 +44,9 @@
 </div>
 
 
-<br clear="both"><p></p>
+<!--   <br clear="both"><p></p> -->
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="20%" />
-<div align="right">
+<div align="right" width="20%">
   <p><br></p>
   <br>
   <p></p>
