@@ -44,7 +44,7 @@
 <div align="center">
   <p></p><p></p>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&label=%20Profile%20Views%20&color=0&%20icon=4%20&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&label=%20%20Profile%20Views%20%20&color=0&icon=4&pretty=true" />
 </a>
 </div><p></p>
 <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="center" width="30%"/>
