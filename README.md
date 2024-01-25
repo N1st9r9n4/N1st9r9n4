@@ -44,6 +44,9 @@
 <div align="center">
   <p><br></p>
     <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&style=for-the-badge&color=1" align="center" >
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=N1st9r9n4&label=Profile%20Views&color=0&icon=4&pretty=false" />
+</a>
 </div><p><br></p>
 <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="center" width="30%"/>
 <p></p>
