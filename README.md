@@ -24,32 +24,26 @@
 
 <br clear="both"><p></p>
 <img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="25%" />
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="20%" />
 <div align="left" max-width="25%">
 <!--   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
-<!--   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/django/django/lightgreen" /> -->
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue"" />
-<!--   <p></p> -->
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/django/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/html5/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/css3/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/bootstrap/navy/lightblue"" />
-<!--   <p></p> -->
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/raspberrypi/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/git/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/micropython/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/scratch/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/pythonanywhere/navy/lightblue"" />
-<!--   <p></p> -->
 </div>
 
-
-<!--   <br clear="both"><p></p> -->
-<img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="20%" />
 <div align="right" width="20%">
-  <p><br></p>
+<!--   <p><br></p>
   <br>
-  <p></p>
+  <p></p> -->
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/skype/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/gmail/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/linkedin/black/lightgray" />
