@@ -3,22 +3,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870.png" align="right" width="30%" />
 
-- Happy and creative programmer
-  
-
-- Passionate about Robotics, AI, and Back-end development  
-  
-
-- Master’s degree in AI and robotics  
-  
-
-- Designed and implemented a new algorithm for autonomous mobile robot path planning  
-  
-
-- Experienced in path planning, pattern recognition, and image processing  
-  
-
-- Enjoy learning new things and combining different fields to create innovative solutions  
+- Happy and creative programmer <br>
+- Passionate about Robotics, AI, and Back-end development  <br>
+- Master’s degree in AI and robotics  <br>
+- Designed and implemented a new algorithm for autonomous mobile robot path planning  <br>
+- Experienced in path planning, pattern recognition, and image processing  <br>
+- Enjoy learning new things and combining different fields to create innovative solutions <br> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -42,8 +32,6 @@
 
 <div align="right" width="25%">
   <p><br></p>
-<!--   <br>
-  <p></p> -->
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/skype/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/gmail/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/linkedin/black/lightgray" />
