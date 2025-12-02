@@ -1,53 +1,6 @@
-<!-- Neon Futuristic Header -->
-<h1 align="center">
-  <span style="color:#00eaff;">⚡ Hobaro</span>
-</h1>
-<p align="center">
-  <strong>Robotics • AI • Computer Vision</strong><br>
-  Building intelligent robots that see, learn, and act.
-</p>
-
----
-
-## 🚀 About Me
-Robotics & AI developer focused on **computer vision**, **embedded systems**, and **real-time robotic intelligence**.  
-Tech I use every day: **Python**, **OpenCV**, **Arduino**, **ESP32**, **Raspberry Pi**, **MicroPython**.
-
----
-
-## 🛠 Tech Stack
-`Python` • `OpenCV` • `AI/ML`  
-`Arduino (C++)` • `ESP32` • `Raspberry Pi` • `MicroPython`
-
----
-
-## 📊 GitHub Stats (Neon Mode)
-<div align="center">
-
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Hobaro&show_icons=true&theme=tokyonight" height="165">
-
-<!-- Streaks -->
-<img src="https://streak-stats.demolab.com?user=Hobaro&theme=tokyonight" height="165">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hobaro&theme=tokyo-night" height="220">
-
-</div>
-
----
-
-## 🤖 Interests
-Robotic perception • SLAM • 4D mapping • personal assistant robots • embedded AI
-
----
-
-<p align="center">
-  <strong style="color:#00eaff;">Let’s build the future.</strong>
-</p>
-
-
-<img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=header&height=300&text=Hobaro-nl-&fontColor=4B6F9F&desc=%20^-^%20&animation=twinkling">
+<img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=header&height=300&text=Robotics & AI-nl-&fontColor=4B6F9F&desc=%20^-^%20&animation=twinkling">
+<img style="width:100%;" src="[https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=header&height=300&text=Robotics & AI-nl-&fontColor=4B6F9F&desc=%20^-^%20&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&height=300&color=00265B&text=AI%20Robotics-nl--.-&textBg=false&reversal=false&fontColor=DFEEFF&fontAlignY=35&animation=twinkling
+)">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870.png" align="right" width="30%" />
