@@ -1,5 +1,4 @@
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00265B&text=AI%20Robotics-nl--.-&textBg=false&reversal=false&fontColor=DFEEFF&fontAlignY=35&animation=twinkling">
-<img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=header&height=300&text=Hobaro-nl-&fontColor=4B6F9F&desc=%20^-^%20&animation=twinkling">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://www.4shared.com/img/-ldyIk1Ejq/s25/18baab2f5e8/octocat-1699368227870.png" align="right" width="30%" />
@@ -50,6 +49,9 @@
 </div><p></p>
 <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="center" width="30%"/>
 <p></p>
+
+<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00265B&text=Developer&section=footer&fontColor=DFEEFF&animation=blinking&descAlignY=60&fontAlignY=65">
+
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?&type=waving&color=32B6FF50&section=footer&reversal=false&height=200&text=-nl-Hobaro&fontColor=4B6F9F&fontSize=50&animation=blinking">
 
 
