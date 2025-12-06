@@ -1,8 +1,6 @@
-html,
-body,
-app-root,
-.app-frame {
+html,body{
   font-family: "Comic Sans MS";
+  font-size: 20px;
 }
 
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00265B&text=AI%20Robotics-nl--.-&textBg=false&reversal=false&fontColor=DFEEFF&fontAlignY=35&animation=twinkling">
