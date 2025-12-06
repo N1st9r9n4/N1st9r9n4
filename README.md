@@ -1,13 +1,13 @@
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00265B&text=AI%20Robotics-nl--.-&textBg=false&reversal=false&fontColor=DFEEFF&fontAlignY=35&animation=twinkling">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="30%" />
-
-- I build intelligent systems that sense, understand, and act.
-- I turn ideas into real, functional robotic prototypes.
-- I combine technologies to create simple, innovative solutions.
-- I’m always learning and exploring new fields to build smarter systems.
-  
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="25%" />
+<p></p>
+- I build intelligent systems that sense, understand, and act.<p></p>
+- I turn ideas into real, functional robotic prototypes.<p></p>
+- I combine technologies to create simple, innovative solutions.<p></p>
+- I’m always learning and exploring new fields to build smarter systems.<p></p>
+<p></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -39,7 +39,6 @@
 
 <br clear="both"><p></p>
 <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" width="30%" />
-<img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg" align="right" width="30%"/>
 <div align="center">
   <p></p><p></p>
   <a href="https://visitcount.itsvg.in">
