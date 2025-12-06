@@ -22,33 +22,19 @@
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/raspberrypi/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/scratch/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/pythonanywhere/navy/lightblue"" />
+  <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/opencv/navy/lightblue"" />
+  <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/arduino/navy/lightblue"" />
+  <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/espressif/navy/lightblue"" />
 </div>
-
-<div align="right" width="20%">
- <p><br></p>
-  <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/gmail/black/lightgray" />
-  <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/linkedin/black/lightgray" />
-  <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/internetexplorer/black/lightgray" />
-  <img width="50" height="50" hspace="20" src="https://github.com/user-attachments/assets/5d16bdcf-2994-435b-b322-6ad71f813919" />
-
-</div>
-
 
 <br clear="both"><p></p>
-<img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" width="30%" />
+<!-- <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" width="30%" /> -->
 <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="center" width="30%"/>
 <p></p>
 
-<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00265B&text=Developer&section=footer&fontColor=DFEEFF&animation=blinking&fontSize=50&descAlignY=60&fontAlignY=65">
-
-
-
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ST9R9N4&theme=transparent" height="240em" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" width="fit-content" />
-<img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true" width="100%"><p></p>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=N1ST9R9N4&theme=github-compact"/><p></p>
-<img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
-<img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
 
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=N1st9r9n4&no-bg=true&theme=algolia&no-frame=true" width="100%"><p></p> -->
+<!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=N1ST9R9N4&theme=github-compact"/><p></p> -->
 
-
+<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00265B&text=Developer&section=footer&fontColor=DFEEFF&animation=blinking&fontSize=50&descAlignY=60&fontAlignY=65">
