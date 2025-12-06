@@ -17,8 +17,8 @@
 
 <br clear="both"><p></p>
 <img src="https://octodex.github.com/images/baracktocat.jpg" align="left" width="25%" />
-<p></p><p></p>
 <div align="left" max-width="25%">
+<p></p><p></p>
 <!-- <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" /> -->
 <!-- <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
   <img height="60" width="60" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue"" />
@@ -30,6 +30,7 @@
   <img height="60" width="60" hspace="10" src="https://cdn.simpleicons.org/espressif/navy/lightblue"" />
 </div>
 
+<p></p>
 <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="right" width="30%"/>
 <p></p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" width="fit-content" />
