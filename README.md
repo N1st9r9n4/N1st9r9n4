@@ -29,6 +29,8 @@
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/gmail/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/linkedin/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/internetexplorer/black/lightgray" />
+  <img width="50" height="50" hspace="20" src="https://github.com/user-attachments/assets/5d16bdcf-2994-435b-b322-6ad71f813919" />
+
 </div>
 
 
