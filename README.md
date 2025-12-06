@@ -17,20 +17,20 @@
 <div align="left" max-width="25%">
 <!-- <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" /> -->
 <!-- <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
-  <img height="60" width="60" hspace="10" vspace="10" viewbox=auto src="https://cdn.simpleicons.org/python/navy/lightblue"" />
-  <img height="60" width="60" hspace="10" vspace="10" viewbox=auto src="https://cdn.simpleicons.org/micropython/navy/lightblue"" />
-  <img height="60" width="60" hspace="10" vspace="10" viewbox=auto src="https://cdn.simpleicons.org/git/navy/lightblue"" />
-  <img height="60" width="60" hspace="10" vspace="10" viewbox=auto src="https://cdn.simpleicons.org/raspberrypi/navy/lightblue"" />
-  <img height="60" width="60" hspace="10" vspace="10" viewbox=auto src="https://cdn.simpleicons.org/scratch/navy/lightblue"" />
-  <img height="60" width="60" hspace="10" vspace="10" viewbox=auto src="https://cdn.simpleicons.org/pythonanywhere/navy/lightblue"" />
-  <img height="60" width="60" hspace="10" vspace="10" viewbox=auto src="https://cdn.simpleicons.org/opencv/navy/lightblue"" />
-  <img height="60" width="60" hspace="10" vspace="10" viewbox=auto src="https://cdn.simpleicons.org/arduino/navy/lightblue"" />
-  <img height="60" width="60" hspace="10" vspace="10" viewbox=auto src="https://cdn.simpleicons.org/espressif/navy/lightblue"" />
+  <img height="60" width="60" hspace="10" vspace="10" viewbox="20" src="https://cdn.simpleicons.org/python/navy/lightblue"" />
+  <img height="60" width="60" hspace="10" vspace="10" viewbox=20 src="https://cdn.simpleicons.org/micropython/navy/lightblue"" />
+  <img height="60" width="60" hspace="10" vspace="10" viewbox=20 src="https://cdn.simpleicons.org/git/navy/lightblue"" />
+  <img height="60" width="60" hspace="10" vspace="10" viewbox=20 src="https://cdn.simpleicons.org/raspberrypi/navy/lightblue"" />
+  <img height="60" width="60" hspace="10" vspace="10" viewbox=20 src="https://cdn.simpleicons.org/scratch/navy/lightblue"" />
+  <img height="60" width="60" hspace="10" vspace="10" viewbox=20 src="https://cdn.simpleicons.org/pythonanywhere/navy/lightblue"" />
+  <img height="60" width="60" hspace="10" vspace="10" viewbox=20 src="https://cdn.simpleicons.org/opencv/navy/lightblue"" />
+  <img height="60" width="60" hspace="10" vspace="10" viewbox=20 src="https://cdn.simpleicons.org/arduino/navy/lightblue"" />
+  <img height="60" width="60" hspace="10" vspace="10" viewbox=20 src="https://cdn.simpleicons.org/espressif/navy/lightblue"" />
 </div>
 
 <br clear="both">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" width="fit-content" />
 <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" align="right" width="30%"/>
+<p></p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=N1ST9R9N4&theme=transparent" alt="N1ST9R9N4" width="fit-content" />
 
 
 <!-- <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" align="left" width="30%" /> -->
