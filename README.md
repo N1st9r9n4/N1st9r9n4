@@ -2,10 +2,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="30%" />
-- I build intelligent systems that **sense, understand, and act**.<p></p>
-- I turn ideas into real, working prototypes from autonomous navigation to vision-based robotic systems.<p></p>
-- I combine different technologies to create simple and innovative solutions<p></p>
-- I enjoy learning new things and combining different fields to create innovative solutions. <p></p>
+
+- I build intelligent systems that sense, understand, and act.
+- I turn ideas into real, functional robotic prototypes.
+- I combine technologies to create simple, innovative solutions.
+- I’m always learning and exploring new fields to build smarter systems.
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
