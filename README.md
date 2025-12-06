@@ -3,8 +3,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="25%" />
 <p></p>
-- I build intelligent systems that sense, understand, and act.<p></p>
-- I turn ideas into real, functional robotic prototypes.<p></p>
+<p style="font-size:16px;">- I build intelligent systems that sense, understand, and act.</p><p></p>
+<strong>- I turn ideas into real, functional robotic prototypes.</strong><p></p>
 - I combine technologies to create simple, innovative solutions.<p></p>
 - I’m always learning and exploring new fields to build smarter systems.<p></p>
 <p></p>
@@ -50,7 +50,7 @@
 
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00265B&text=Developer&section=footer&fontColor=DFEEFF&animation=blinking&fontSize=50&descAlignY=60&fontAlignY=65">
 
-<!--
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=N1st9r9n4&data=followers,repositories,stars,commits&theme=default&theme=darkmode)](https://github.com/N1st9r9n4)
 
 [![@N1st9r9n4's Holopin board](https://holopin.me/N1st9r9n4)](https://holopin.io/@N1st9r9n4)
@@ -72,6 +72,6 @@
 <img src="https://moe-counter.glitch.me/get/@:N1st9r9n4">
 <img align="right" src="https://profile-counter.glitch.me/N1st9r9n4/count.svg?"  />
 <img src="https://komarev.com/ghpvc/?username=n1st9r9n4&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="n1st9r9n4" />
--->
+
 
 
