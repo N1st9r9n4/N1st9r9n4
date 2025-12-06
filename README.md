@@ -2,12 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="30%" />
-- Happy and creative programmer<p></p>
-- Passionate about Robotics, AI, and Back-end development  <p></p>
-- Master’s degree in AI and robotics  <p></p>
-- Designed and implemented a new algorithm for autonomous mobile robot path planning  <p></p>
-- Experienced in path planning, pattern recognition, and image processing  <p></p>
-- Enjoy learning new things and combining different fields to create innovative solutions  <p></p>
+- I build intelligent systems that **sense, understand, and act**.<p></p>
+- I turn ideas into real, working prototypes from autonomous navigation to vision-based robotic systems.<p></p>
+- I combine different technologies to create simple and innovative solutions<p></p>
+- I enjoy learning new things and combining different fields to create innovative solutions. <p></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
