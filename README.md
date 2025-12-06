@@ -3,10 +3,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" align="right" width="25%" />
 <p></p>
-<p style="font-size:16px;">- I build intelligent systems that sense, understand, and act.</p><p></p>
-<strong>- I turn ideas into real, functional robotic prototypes.</strong><p></p>
-- I combine technologies to create simple, innovative solutions.<p></p>
-- I’m always learning and exploring new fields to build smarter systems.<p></p>
+<p style="font-size: large;">- I build intelligent systems that sense, understand, and act.</p><p></p>
+<p style="font-size: large;">- I turn ideas into real, functional robotic prototypes.</p><p></p>
+<p style="font-size: large;">- I combine technologies to create simple, innovative solutions.</p><p></p>
+<p style="font-size: large;">- I’m always learning and exploring new fields to build smarter systems.</p><p></p>
 <p></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -18,9 +18,6 @@
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/django/navy/lightblue"" />
-  <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/html5/navy/lightblue"" />
-  <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/css3/navy/lightblue"" />
-  <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/bootstrap/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/raspberrypi/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/git/navy/lightblue"" />
   <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/micropython/navy/lightblue"" />
@@ -30,7 +27,6 @@
 
 <div align="right" width="20%">
  <p><br></p>
-  <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/skype/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/gmail/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/linkedin/black/lightgray" />
   <img height="50" width="50" hspace="20" src="https://cdn.simpleicons.org/internetexplorer/black/lightgray" />
