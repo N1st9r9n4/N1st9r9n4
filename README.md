@@ -17,7 +17,6 @@
 <div align="left" max-width="25%">
 <!-- <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/darkgray/lightgray" /> -->
 <!-- <img height="50" width="50" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue" /> -->
-  
   <img height="60" width="60" hspace="10" src="https://cdn.simpleicons.org/python/navy/lightblue"" />
   <img height="60" width="60" hspace="10" src="https://cdn.simpleicons.org/micropython/navy/lightblue"" />
   <img height="60" width="60" hspace="10" src="https://cdn.simpleicons.org/git/navy/lightblue"" />
